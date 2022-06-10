@@ -87,7 +87,6 @@ function FlashTime.SetNICT()
 	local min   = itr();
 	local sec   = itr();
 
-  
   	FlashTime.SetTime(Year,Month,Day,Hour,min,sec);
 
   	return true;
